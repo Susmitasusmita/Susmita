@@ -283,7 +283,8 @@ Name - {}
 📆 ʏᴇᴀʀ : {release_date}</b>
 """
 
-    CUSTOM_FILE_CAPTION = https://t.me/StudyAcademyOfficial """<b>{file_name}</b>"""
+    CUSTOM_FILE_CAPTION =
+ """<b><a href="https://t.me/StudyAcademyOfficial">{file_name}</a></b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
